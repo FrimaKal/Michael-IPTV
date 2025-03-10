@@ -1,0 +1,384 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#PLAYLIST:MICHAEL
+#EXTINF:-1 group-title="РЕЛАКС- расслабление",Relax HD
+https://fs2.persik.by/Relax4/index.m3u8
+
+#EXTINF:-1  group-title="ISRAEL",kanal 11
+#EXTVLCOPT:network-caching=1000
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+
+#EXTINF:-1 group-title="ISRAEL",kanal 12
+#EXTVLCOPT:network-caching=1000
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1739620267~acl=%2f*~data=hdntl~hmac=fc49e503c0b7adbd940ea6982dc2f5aa96e4df83770a540d0d312f5511d32083/profileManifest.m3u8?_uid=ad1ef0af-1c6e-495a-b7ae-f2eaa6eafe11&rK=a8&_did=84c2713dfed985b43b6a86ffe9102c3ea7600701
+
+#EXTINF:-1group- title="ISRAEL",reshet13
+#EXTVLCOPT:network-caching=1000
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/0/profileManifest.m3u8?_uid=7c3a8ef1-536d-46fb-a8f0-bc902e89f5fa&rK=a1&_did=23eb5f44-9142-4bce-aa45-acf0e42c16e1
+
+#EXTINF:-1 group-title="ISRAEL",kanal 13
+#EXTVLCOPT:network-caching=1000
+https://reshet.g-mana.live/media/cdefce3a-14ec-46cc-a147-1275c4a8b9ed/profile/2/profileManifest.m3u8?_uid=daf4c101-315e-4e4b-978c-f438da4c1855&rK=a4&_did=a5877bef-db69-4a54-846f-ce4f2658786d
+
+#EXTINF:-1 group-title="ISRAEL",kanal 14
+#EXTVLCOPT:network-caching=1000
+https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 group- title="israel",kanal 23
+#EXTVLCOPT:network-caching=1000
+https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_4k/chunklist.m3u8
+
+#EXTINF:-1  group-title="ISRAEL",aruts hinuhit
+#EXTVLCOPT:network-caching=1000
+https://kan23.media.kan.org.il/hls/live/2024691-b/2024691/source1_4k/chunklist.m3u8
+
+#EXTINF:-1  group-title="ISRAEL",I24
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/54b8e6b753e3409c91856201d1f08731/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 group- title="israel", aruts nofesh
+#EXTVLCOPT:network-caching=1000
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+
+#EXTINF:-1 group- title="israel",aruts realiti
+#EXTVLCOPT:network-caching=1000
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_2.m3u8
+
+#EXTINF:-1 group- title="israel",DAZN women footboll
+#EXTVLCOPT:network-caching=1000
+https://d3829cgl07i279.cloudfront.net/out/v1/4c5e08593840494e9503198d20cdd15f/index_3.m3u8
+
+#EXTINF:-1 group- title="israel",DAZN kombat
+#EXTVLCOPT:network-caching=1000
+https://dbb2f9bsvsu9o.cloudfront.net/out/v1/c22588ee135e412ca7f64f5525b097ab/index_4.m3u8
+
+#EXTINF:-1 group- title="israel",auts kneset
+#EXTVLCOPT:network-caching=1000
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group- title="ЭФИРНЫЕ",1tv
+#EXTVLCOPT:network-caching=1000
+http://ost.ru-tv.site/zdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA0LjM3Ojg4ODcvODEyMC90aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiNjdiMzgyNWYiLCJwIjoiNjdiMzgyNWYwOGEyM2Q3MCIsImMiOiIxMTYiLCJ0IjoiNTkzNWVlZTQ3NmE0MTA3MmY3MGQyZTk0NjE0MTYwNzAiLCJkIjoiMzM1OTE3IiwiciI6IjM0Nzc3NiIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuODEvODEyMC9pbmRleC5tM3U4P3Rva2VuPVt/index.m3u8
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый (HD ready)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-logo="https://iptvx.one/picons/pervy-kanal-eu.png" group-title="Общественные",Первый канал Европа (WSVGA)
+
+#EXTINF:-1 tvg-id="rtvi" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="Общественные",RTVi (EDTV)
+http://45.143.108.110:2203/RTVi
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1_4.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR HD720 (EURO) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+
+#EXTINF:-1 group- title="ЭФИРНЫЕ" ,Неизвестная Россия
+#EXTVLCOPT:network-caching=3000
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="ЭФИРНЫЕ" ,НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="ЭФИРНЫЕ" ,НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png"group- title="ЭФИРНЫЕ",НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="ЭФИРНЫЕ",НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="ЭФИРНЫЕ",НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="russia",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="russia",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="russia",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group- title="russia",НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group-title="Общественные",НТВ Беларусь (HD)
+http://93.189.224.246:52900/play/a00i/index.m3u8
+
+#EXTINF:-1 group- title="ЭФИРНЫЕ",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 group- title="ЭФИРНЫЕ",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group- title="ЭФИРНЫЕ",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-belarus.png" group-title="ЭФИРНЫЕ",Беларусь РТР (HD)
+http://93.189.224.246:52900/play/a00j/index.m3u8
+
+#EXTINF:-1 group- title="russia",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+
+#EXTINF:-1 group- title="russia",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KINO+",ЧЕ!
+http://178.212.71.253:8002/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний (HD)
+https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+
+#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС Int (EDTV)
+https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+
+#EXTINF:-1 group-title="KINO+",СТС HD
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница! (HD)
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+
+#EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница! Int (EDTV)
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="Развлекательные",Суббота (HD)
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+
+#EXTINF:-1 tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 Int (EDTV)
+https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",RenTv HD
+http://stream01.vnet.am/RenTv/mono.m3u8
+
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кинозал",Amedia 1 (EDTV)
+http://stream01.vnet.am/Channel_128/mono.m3u8
+
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кинозал",Amedia 2 (EDTV)
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кинозал",Amedia Hit (HD)
+http://stream01.vnet.am/Nauka/mono.m3u8
+
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кинозал",Amedia Premium (HD)
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+
+#EXTINF:-1 group-title="KINO+",Мужское кино SD
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+
+#EXTINF:-1 group-title="KINO+",Кинопремьера 1920x1080
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+
+#EXTINF:-1 group-title="KINO+",Кино хит sd
+http://45.159.74.14:80/Kinokhit/index.m3u8
+
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="Хобби и увлечения",Загородный Int (HD)
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://stream01.vnet.am/AnimalPlanet/index.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic 
+http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History HD [RU-EN-CZ]
+http://95.67.12.81:10619?key=fas-tv.com
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History 2 HD [RU-EN-CZ]
+http://95.67.12.81:10620?key=fas-tv.com
+
+#EXTINF:-1 group-title="CHILDREN'S",Nickelodeon HD
+http://stream01.vnet.am/Channel_114/mono.m3u8
+
+#EXTINF:-1 group-title="CHILDREN'S",Cartoonito HD
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="CHILDREN'S",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="CHILDREN'S",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+
+#EXTINF:-1 group-title="CHILDREN'S",СТС Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 hd
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",FightBox 
+http://stream01.vnet.am/Fightbox/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Fast Sports
+http://stream01.vnet.am/Channel_131/mono.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ HD
+http://stream01.vnet.am/BoksTv/index.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",МАТЧ 
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+
+#EXTINF:-1 group-title="SPORT 🏆",Viju+ Sport
+http://stream02.vnet.am/AutoPlus/mono.m3u8
+
+#EXTINF:-1,Р Иллюзион HD
+http://141.95.55.143/CH4407/index.m3u8
+
+#EXTINF:-1 group-title="Usba TV",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,НТВ [1920x1080]
+#EXTVLCOPT:network-caching=3000
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Кинозал",Viju+ premiere (HD)
+http://130.193.73.10:8937/play/a03g
+
+#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кинозал",Еврокино (EDTV)
+http://185.50.148.2:7709/Evrokino/index.m3u8
+
+#EXTINF:-1 group-title="KINO+",ЧЕ!HD
+http://178.212.71.253:8002/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://iptvx.one/picons/bober.png" group-title="Хобби и увлечения",Бобёр (EDTV)
+http://178.212.71.253:8002/play/a00m/index.m3u8
+
+
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="Общественные",Большая Азия (HD ready)
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 ,NTM (HD)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 ,S1(HD)
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+
+#EXTINF:-1 ,1Mus.com(HD)
+http://rtmp.one.by:2300
+
+#EXTINF:-1 ,1Mus.com(HD)
+http://rtmp.one.by:1300
+
+#EXTINF:-1 ,vise to beat(HD)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 ,Байкал Универ ТВ
+https://stream01.bgu.ru/1/1/playlist.m3u8
+
+#EXTINF:-1 ,Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-title="Хобби и увлечения",Домашние Животные (EDTV)
+http://130.193.73.10:8937/play/a02d
+
+#EXTINF:0,Матч! [720x576]
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,RTД rus [1920x1080]
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+
+#EXTINF:-1 tvg-id="nba-tv-us" tvg-logo="https://epg.iptvx.one/picons/nba-tv-us.png" group-title="США",NBA TV (HD ready)
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="espn2-us" tvg-logo="https://epg.iptvx.one/picons/espn2-us.png" group-title="США",ESPN 2 (HD ready)
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные",France 24 English (HD ready)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
+https://stream01.vnet.am/Channel_119/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="США",NBC News NOW (HD)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-id="nfl-network-us" tvg-logo="https://epg.iptvx.one/picons/nfl-network-us.png" group-title="США",NFL Network (HD ready)
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="nhl-network-us" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png" group-title="США",NHL Network (HD ready)
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="newsmax-us" tvg-logo="https://epg.iptvx.one/picons/newsmax-us.png" group-title="США",Newsmax TV (HD)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="newsnation-us" tvg-logo="https://iptvx.one/picons/newsnation-us.png" group-title="США",NewsNation (HD ready)
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="США",Showtime (HD)
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="США",Showtime 2 (HD ready)
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="США",Showtime Extreme (HD)
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="США",Showtime Next (HD ready)
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="США",Showtime Women (HD)
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="США",Starz (HD ready)
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="США",Starz Comedy (HD ready)
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="США",Starz Edge (HD ready)
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="США",Starz Encore (HD ready)
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="США",Starz Encore Action (HD ready)
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="США",STARZ ENCORE CLASSIC (HD)
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="США",Starz Encore Westerns (HD ready)
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="США",TBS (HD ready)
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="США",TNT (HD ready)
+http://fl2.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/animal-planet-eu.png",Animal Planet (HD)
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+
+
+
+
+
+
+
